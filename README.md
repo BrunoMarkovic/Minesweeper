@@ -56,7 +56,7 @@ Minesweeper/
 
 U nastavku možete vidjeti screenshot igre:
 
-![Screenshot Minesweeper igre](images/screenshot.png)
+![Screenshot Minesweeper igre](images/screenshot.jpeg)
 
 ---
 
