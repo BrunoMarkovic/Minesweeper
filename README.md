@@ -54,6 +54,12 @@ Minesweeper/
 
 ---
 
+U nastavku možete vidjeti screenshot igre:
+
+![Screenshot Minesweeper igre](images/screenshot.png)
+
+---
+
 ## Licenca
 
 Ovaj projekt je objavljen pod MIT licencom – slobodno koristi, mijenjaj i dijeli.
